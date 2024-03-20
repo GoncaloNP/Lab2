@@ -1,0 +1,27 @@
+.rodape {
+    position: absolute;
+    bottom: 5px;
+    left: 5px;
+}
+.palavra {
+    font-size: 25px;
+    position: absolute;
+    top: -40px;
+    left: 300px;
+}
+.black {
+    box-shadow: 5px 5px 0px #000000;
+}
+.cabecalho {
+    position: absolute;
+    top: 20px; 
+    left: 20px;  
+}
+.borda1 {
+    background-color: #ffffff;
+    border: 1px solid #000000;
+    padding: 5px 20px;
+    box-shadow: 5px 5px 0px #000000;
+    text-decoration: none;
+    color: black;
+}
